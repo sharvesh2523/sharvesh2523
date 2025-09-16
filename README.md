@@ -1,5 +1,6 @@
-# Hi there,I'm Sree Sharvesh P
+# Hi there, I'm Sree Sharvesh P! 👋
 
+### About Me
 
 -   💻 A professional blending **Data Analysis**, **Quality Assurance**, and **IT** with a passion for creative arts.
 -   🛠️ My expertise lies in Python, SQL, and Power BI for data-driven insights.
@@ -27,5 +28,5 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SreeSharveshP&show_icons=true&theme=dark" alt="Sree Sharvesh'P GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreesharveshp&show_icons=true&theme=dark" alt="Sree Sharvesh P's GitHub Stats" />
 </div>
