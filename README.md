@@ -27,5 +27,5 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharunkamalesh&show_icons=true&theme=dark" alt="Tharun Kamalesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tharunkamalesh&show_icons=true&theme=dark" alt="Sree Sharvesh'P GitHub Stats" />
 </div>
