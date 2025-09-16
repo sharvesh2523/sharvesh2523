@@ -1,4 +1,4 @@
-# Hi there, I'm Sree Sharvesh P! 👋
+Hi there, I'm Sree Sharvesh P
 
 ### About Me
 
